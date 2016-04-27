@@ -1,7 +1,4 @@
 # RDS
-
-
-# RDS
 A Powershell script, consisting of 3 scripts which are used to identify encrypted files in a predetermined folder by analyzing the files with different statistical data analysis algorithms. 
 
 If an encrypted file is found, the offending user is determined, the SMB Access for the share is blocked and the administrator is e-mailed. 
